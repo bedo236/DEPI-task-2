@@ -1,0 +1,7 @@
+<resources>
+<!--    <string name="app_name">Task2</string>-->
+    <string name="app_name">Movie App</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">This is a brief description of the movie.</string>
+    <string name="publish_date">Published: 01 Jan 2024</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <style name="MenuItemTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
